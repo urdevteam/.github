@@ -50,8 +50,8 @@ urDev operates across mainly in Africa. Our solutions are designed to address ch
 
 ## 📫 Connect with Us
 - **Email**: [urdevteam24@gmail.com](mailto:urdevteam24@gmail.com)
-- **LinkedIn**: [@urDev](https://linkedin.com/company/urdevteam)
-- **Twitter**: [@urDev](https://x.com/urdevteam)
+- **LinkedIn**: [@urDevTeam](https://linkedin.com/company/urdevteam)
+- **Twitter**: [@urDevTeam](https://x.com/urdevteam)
 
 ---
 
