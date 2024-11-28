@@ -1,6 +1,6 @@
 # Welcome to urDev 🌍💻
 
-**Mission**: At **urDev**, we aim to craft robust and sophisticated software solutions tailored for global clients. Our expertise spans across diverse industries, leveraging cutting-edge technologies to build scalable, secure, and innovative systems that solve real-world problems.
+**Mission**: At **urDev**, our mission is to design and build systems that empower users and solve real-world problems. By leveraging cutting-edge technologies, we create scalable, secure, and innovative solutions tailored to meet the needs of diverse industries and global users.
 
 ---
 
@@ -11,35 +11,27 @@ urDev is more than just a software company, it's a hub for innovation. With a te
 ---
 
 ## 💼 Core Expertise
-- **Product Design**: 
+- **Product Design** 
 - **Custom Software Development**: Tailored solutions that meet the unique needs of each client.
 - **Web & Mobile Applications Development**: Seamless experiences for users, accessible anytime, anywhere.
-- **Website Design**:
-- **System Optimization**: Enhancing efficiency, reliability, and performance.
+- **Website Design**
+- **System Optimization and Maintenance**
 
 ---
 
 ## 🛠️ Tech Stack
 Our development toolkit includes but is not limited to:
-- **Languages**: Python, JavaScript, C 
+- **Languages**: Python, JavaScript, Kotlin
 - **Frameworks**: Django, React, Node, WordPress
-- **Cloud Services**: AWS
+- **Cloud Services**: AWS, GCP
 - **DevOps**: Docker, Kubernetes, Jenkins, CI/CD pipelines.
 
 ---
 
 ## 🌟 Our Philosophy
-- **Client-Centric Approach**: Your success is our success.
-- **Innovation-Driven Solutions**: Always one step ahead with technology.
-- **Quality Assurance**: Rigorous testing and refinement for optimal performance.
-
----
-
-## 📂 Repository Structure
-- **/projects**: Repository of client-facing projects.
-- **/open-source**: Contributions to the developer community.
-- **/tools**: In-house tools for efficiency and productivity.
-- **/resources**: Documentation, templates, and learning materials.
+- **User-Focused Design**: Building systems that prioritize user needs and deliver real value.
+- **Innovation-Driven Solutions**: Harnessing cutting-edge technology to solve complex problems.
+- **Commitment to Excellence**: Ensuring every solution is robust, reliable, and refined for success.
 
 ---
 
@@ -47,7 +39,7 @@ Our development toolkit includes but is not limited to:
 We believe in collaboration and open innovation. You can:
 1. Explore our [**open-source projects**](https://github.com/urdevteam/) and contribute.
 2. Share ideas or issues in the [**discussions**]() section.
-3. Join our team by applying on our [**official website**](https://github.com/urdevteam).
+3. Want to join our team? [**Send us mail**](mailto:urdevteam24@gmail.com).
 
 ---
 
@@ -57,10 +49,9 @@ urDev operates across mainly in Africa. Our solutions are designed to address ch
 ---
 
 ## 📫 Connect with Us
-- **Website**: [urdev.com](https://urdev.com)
 - **Email**: [urdevteam24@gmail.com](mailto:urdevteam24@gmail.com)
-- **LinkedIn**: [@urDev](https://linkedin.com/company/urdev)
-- **Twitter**: [@urDev](https://twitter.com/urDevGlobal)
+- **LinkedIn**: [@urDev](https://linkedin.com/company/urdevteam)
+- **Twitter**: [@urDev](https://x.com/urdevteam)
 
 ---
 
